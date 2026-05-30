@@ -9,7 +9,7 @@ dependencies = [
     "langwatch-scenario>=0.1.3",
     "pytest>=9.0.3",
     "python-dotenv>=1.2.2",
-    "smolagents>=1.25.0",
+    "smolagents>=1.26.0",
 ]
 
 [tool.uv.sources]
